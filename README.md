@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Omkar Bhalerao
+- 👀 I’m interested in Coding and Reading Books
+- 🌱 I’m currently learning c++
